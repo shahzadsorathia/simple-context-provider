@@ -1,0 +1,15 @@
+#nav-bar {
+  background-color: lightblue;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#nav-bar ul {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  list-style: none;
+}
