@@ -1,9 +1,9 @@
-import Grandparent from '../Parent'
+import Grandparent from '../Grandparent'
 
 const GreatGrandparent = () => {
   return (
     <div>
-      <h2>I'm the grandparent!</h2>
+      <h2>I'm the Great grandparent!</h2>
       <Grandparent />
     </div>
   );
