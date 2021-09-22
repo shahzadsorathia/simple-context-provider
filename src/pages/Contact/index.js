@@ -1,10 +1,10 @@
-import One from '../../components/GreatGrandparent'
+import GreatGrandParent from '../../components/GreatGrandparent'
 
 const Contact = () => {
   return (
     <div>
       <h1>I'm Contact page. Great grandparent</h1>
-      <One />
+      <GreatGrandParent />
     </div>
   );
 }
